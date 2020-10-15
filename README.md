@@ -12,7 +12,7 @@ Similar to [federated social networks](https://www.eff.org/deeplinks/2011/03/int
 - [eXtensible Messaging and Presence Protocol (XMPP)](http://xmpp.org/) by XSF,
 - [ZeroMQ Message Transport Protocol (ZMTP)](http://zmtp.org/) by iMatix.
 
-This could be achieved by deploying a local PrIoT cloud based on open source projects like:
+  This could be achieved by deploying a local PrIoT cloud based on open source projects like:
  - [AllJoyn](http://www.alljoyn.org/) by AllSeen Alliance,
  - [Contiki](http://www.contiki-os.org/) (based on CoAP) by Adam Dunkels et al,
  - [Edgenet](http://theedg.es/) by Pieter Hintjens,
